@@ -10,3 +10,7 @@ Simple job portal for NITC staff hiring built with MongoDB, Express, React and N
 - main: stable (protected)
 - dev: active development
 - feature/*: feature branches
+
+
+# Connection status
+SankeT2705 connected.
